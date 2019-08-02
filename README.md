@@ -1,0 +1,2 @@
+# program
+to study git
